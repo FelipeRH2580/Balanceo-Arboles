@@ -1,4 +1,4 @@
-INTEGRANTES:
-Johan Felipe Rodriguez Herrera
-Fabian Botero Benavides
-Juan David Gonzalez
+#INTEGRANTES:
+- Johan Felipe Rodriguez Herrera
+- Fabian Botero Benavides
+- Juan David Gonzalez
